@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Aszalea! It's nice to meet you!
+### Hi there 👋 My name is Aszalea! It's nice to meet you!                
 
 🔭 I’m currently working on game with a few friends called "Super Amazing Rocket Ship Adventure" as well as in school studying software. 
 🌱 I’m currently studying react! So far I love it!
