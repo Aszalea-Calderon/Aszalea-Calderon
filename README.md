@@ -11,6 +11,8 @@
 You can check out more of my work at https://www.aszalea-calderon.com/
 
 # [![Aszalea's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aszalea-Calderon&hide=stars,issues&show_icons=true)](https://github.com/Aszalea-Calderon)
+#![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Aszalea-Calderon)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aszalea-Calderon&hide=ruby,shell)](https://github.com/Aszalea-Calderon)
 <!--
 **Aszalea-Calderon/Aszalea-Calderon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
