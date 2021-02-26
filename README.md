@@ -8,12 +8,12 @@ I am a Full-Stack Web Developer, UX Designer and Illustrator. I am attending two
 
 
 🌱 I have had a wonderful time learning coding and ux. In the limited amount of spare time I have I love to read, play video games, and design logos. I also love learning new languages. I have been working towards learning Japanese. Slowly I am learning more and more!
-<br>
+<br><p></p>
 ⚡ Fun fact: I use to work as a Coffee Roaster, so if you want to know about roasting or brewing coffee, I got you!
-<br>
+<br><p></p>
 🔭 You can check out more of my work at https://www.aszalea-calderon.com/ , https://twitter.com/AszaleaC , https://www.linkedin.com/in/aszalea-calderon , https://www.behance.net/aszaleacalderon , https://dribbble.com/Aszaraine 
 
-<br>
+<br><p></p>
 You can also contact me at aszalea_calderon@yahoo.com
 <!--
 **Aszalea-Calderon/Aszalea-Calderon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
