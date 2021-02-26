@@ -3,7 +3,7 @@
 <br> 
 I am a Full-Stack Web Developer, UX Designer and Illustrator. I am attending two programs to further my education: Lambda School and CareerFoundry. Each is helping me gain vital knowdge to work towards my goal of becoming a Product Manager. Lambda, which is a full stack web development and computer science course, has helped me get an in depth look into how to code production ready applications. CareerFoundry, which is a User design mastery course, has helped me look into human physcology and build with people in mind. 
 <br>
-# [![Aszalea's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aszalea-Calderon&hide=stars,issues&show_icons=true)](https://github.com/Aszalea-Calderon)
+ [![Aszalea's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aszalea-Calderon&hide=stars,issues&show_icons=true)](https://github.com/Aszalea-Calderon)
 
 🌱 I have had a wonderful time learning coding and ux. In the limited amount of spare time I have I love to read, play video games, and design logos. 
 <br>
