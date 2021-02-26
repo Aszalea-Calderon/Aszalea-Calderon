@@ -1,9 +1,9 @@
 ### Hi there 👋 My name is Aszalea! Like As-You-Lay. It's nice to meet you!      
-
+## [![Aszalea's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aszalea-Calderon&hide=stars,issues&show_icons=true)](https://github.com/Aszalea-Calderon)
 <br> 
 I am a Full-Stack Web Developer, UX Designer and Illustrator. I am attending two programs to further my education: Lambda School and CareerFoundry. Each is helping me gain vital knowdge to work towards my goal of becoming a Product Manager. Lambda, which is a full stack web development and computer science course, has helped me get an in depth look into how to code production ready applications. CareerFoundry, which is a User design mastery course, has helped me look into human physcology and build with people in mind. 
 
-## [![Aszalea's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aszalea-Calderon&hide=stars,issues&show_icons=true)](https://github.com/Aszalea-Calderon)<p></p>
+<p></p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aszalea-Calderon&hide=ruby,shell)](https://github.com/Aszalea-Calderon)
 
 
