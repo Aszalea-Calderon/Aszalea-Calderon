@@ -9,7 +9,7 @@
 
 <br>
 You can check out more of my work at https://www.aszalea-calderon.com/
-
+[![Aszalea's github stats](https://github-readme-stats.vercel.app/api?username=aszalea-calderon)](https://github.com/aszalea-calderon/github-readme-stats)
 <!--
 **Aszalea-Calderon/Aszalea-Calderon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
