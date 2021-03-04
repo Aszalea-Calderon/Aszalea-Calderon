@@ -7,7 +7,7 @@ I am a Full-Stack Web Developer, UX Designer and Illustrator. I am attending two
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aszalea-Calderon&hide=ruby,shell)](https://github.com/Aszalea-Calderon)
 </p>
-
+ 
 🌱 I have had a wonderful time learning coding and ux. In the limited amount of spare time I have I love to read, play video games, and design logos. I also love learning new languages. I have been working towards learning Japanese. Slowly I am learning more and more!
 <br/><p></p>
 ⚡ Fun fact: I use to work as a Coffee Roaster, so if you want to know about roasting or brewing coffee, I got you!
