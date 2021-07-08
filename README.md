@@ -1,18 +1,14 @@
-### Hi there 👋 My name is Aszalea! Like As-You-Lay. It's nice to meet you!      
-## [![Aszalea's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aszalea-Calderon&hide=stars,issues&show_icons=true)](https://github.com/Aszalea-Calderon)
 
+Hey there! I am Aszalea. (As-you-lay) My dream is to work on projects and with people to raise the standard for human experience. I believe that UX, Product design, and coding is the way.
 
-My mission is to help people be the best versions of themselves. I want to invest in a happier, more peaceful, world and I believe that starts with the individuals. I got into the Creative Design Sphere initially as just a way to explore my interests and found that through these fields, we can truly make a positive impact on the world.  
+I got into UX / UI initially as a way to explore my interests and found that through design, I can truly make a positive impact on the world. I have been exploring UX and Design for years on my own through my work.
 
---
+I worked for a socially good coffee roaster called Wild Goose Coffee Roasters as an Experience Manager and Product Designer. While there, I was able to craft and design a ton of products, manage our social media, and create memorable experiences for both our wholesale and café clients. 
 
-I have been exploring design and product management for years on my own though my work. I worked for a social good coffee roasters called Wild Goose Coffee Roasters and as an Experience Manager, I loved that I was able to make an impact on peoples everyday lives. In the end I wanted more, so I went back to school to learn how to be even better at what I did. Since then, I have worked daily to learn as much as I can about Design and UX so I can improve, not only my life, but those around me.
+In the end, I wanted to do more for people, so I went back to school to learn how to be even better at what I did. Since then, I have worked daily to learn as much as I can about Design and UX so I can improve not only my life, but those around me. This desire has driven me to explore typography, marketing, Software engineering, photography, graphic design, product design, personal growth studies, and so much more. 
 
---
- 
-My dream is to work on projects and with people to to raise the standard for human experience. I believe that UX and Product design is the way.
+My dream is to work on projects and with people to raise the standard for human experience. I believe that UX and Product design is the way to a better, happier world and that starts with the individual.
 
---
 
  Some of my passions are brewing coffee, playing pinball, and reading as many books as I can find! If you have any questions, feel free to email me at c.aszalea@gmail.com or give me a call. 
 <p>
