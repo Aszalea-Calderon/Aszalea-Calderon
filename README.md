@@ -1,8 +1,16 @@
 ### Hi there 👋 My name is Aszalea! Like As-You-Lay. It's nice to meet you!      
 ## [![Aszalea's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aszalea-Calderon&hide=stars,issues&show_icons=true)](https://github.com/Aszalea-Calderon)
 <br/> 
-I am a Full-Stack Web Developer, UX Designer and Illustrator. I am attending two programs to further my education: Lambda School and CareerFoundry. Each is helping me gain vital knowdge to work towards my goal of becoming a Product Manager. Lambda, which is a full stack web development and computer science course, has helped me get an in depth look into how to code production ready applications. CareerFoundry, which is a User design mastery course, has helped me look into human physcology and build with people in mind. 
 
+My mission is to help people be the best versions of themselves. I want to invest in a happier, more peaceful, world and I believe that starts with the individuals. I got into the Creative Design Sphere initially as just a way to explore my interests and found that through these fields, we can truly make a positive impact on the world.  
+<br/> 
+--
+I have been exploring design and product management for years on my own though my work. I worked for a social good coffee roasters called Wild Goose Coffee Roasters and as an Experience Manager, I loved that I was able to make an impact on peoples everyday lives. In the end I wanted more, so I went back to school to learn how to be even better at what I did. Since then, I have worked daily to learn as much as I can about Design and UX so I can improve, not only my life, but those around me.
+--
+<br/> 
+My dream is to work on projects and with people to to raise the standard for human experience. I believe that UX and Product design is the way.
+--
+ Some of my passions are brewing coffee, playing pinball, and reading as many books as I can find! If you have any questions, feel free to email me at c.aszalea@gmail.com or give me a call. '
 <p>
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aszalea-Calderon&hide=ruby,shell)](https://github.com/Aszalea-Calderon)
