@@ -22,7 +22,7 @@ My dream is to work on projects and with people to to raise the standard for hum
  
 ⚡ Fun fact: I use to work as a Coffee Roaster, so if you want to know about roasting or brewing coffee, I got you!
 <br/><p></p>
-🔭 You can check out more of my work at https://www.aszalea-calderon.com/ , https://twitter.com/AszaleaC , https://www.linkedin.com/in/aszalea-calderon , https://www.behance.net/aszaleacalderon , https://dribbble.com/Aszaraine 
+🔭 You can check out more of my work at https://www.aszalea.com/ , https://twitter.com/AszaleaC , https://www.linkedin.com/in/aszalea-calderon , https://www.behance.net/aszaleacalderon , https://dribbble.com/Aszaraine 
 
 <br/><p></p>
 You can also contact me at c.aszalea@gmail.com
