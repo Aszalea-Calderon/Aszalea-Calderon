@@ -5,12 +5,16 @@
 My mission is to help people be the best versions of themselves. I want to invest in a happier, more peaceful, world and I believe that starts with the individuals. I got into the Creative Design Sphere initially as just a way to explore my interests and found that through these fields, we can truly make a positive impact on the world.  
 
 --
+
 I have been exploring design and product management for years on my own though my work. I worked for a social good coffee roasters called Wild Goose Coffee Roasters and as an Experience Manager, I loved that I was able to make an impact on peoples everyday lives. In the end I wanted more, so I went back to school to learn how to be even better at what I did. Since then, I have worked daily to learn as much as I can about Design and UX so I can improve, not only my life, but those around me.
+
 --
  
 My dream is to work on projects and with people to to raise the standard for human experience. I believe that UX and Product design is the way.
+
 --
- Some of my passions are brewing coffee, playing pinball, and reading as many books as I can find! If you have any questions, feel free to email me at c.aszalea@gmail.com or give me a call. '
+
+ Some of my passions are brewing coffee, playing pinball, and reading as many books as I can find! If you have any questions, feel free to email me at c.aszalea@gmail.com or give me a call. 
 <p>
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aszalea-Calderon&hide=ruby,shell)](https://github.com/Aszalea-Calderon)
