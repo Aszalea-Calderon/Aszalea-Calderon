@@ -1,4 +1,3 @@
-
 I'm Aszalea (like As-you-lay), an AI Product Designer specializing in human-AI interfaces for the global innovative tech ecosystem. My approach combines data-driven insights, human-centered design human oversight, and regulatory compliance for business strategy to deliver solutions that stand out in today's competitive tech landscape.
 
 With 4+ years experience redesigning legacy systems and developing new AI-driven products at MRI-Simmons (GfK), I've tackled complex challenges that others avoided. My proudest achievements include overhauling data visualization tools, scaling enterprise-level datasets, and developing natural language AI interfaces that democratize data insights—skills particularly valuable in AI, Market Research and ad Tech sectors.
