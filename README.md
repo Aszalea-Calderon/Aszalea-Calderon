@@ -25,7 +25,7 @@ Let's connect and explore how we might collaborate in shaping the AI landscape!
 
 <!--
 **Aszalea-Calderon/Aszalea-Calderon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-sadfasdfjkh
+
 
 Here are some ideas to get you started:
 #![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Aszalea-Calderon)
